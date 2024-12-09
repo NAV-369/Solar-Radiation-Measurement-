@@ -1,6 +1,6 @@
 import streamlit as st
 from app.utils import load_data, plot_chart
-
+from utils import load_data, plot_chart
 # App Title
 st.title("Solar Radiation Dashboard")
 
